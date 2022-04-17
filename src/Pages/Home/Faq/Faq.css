@@ -1,0 +1,16 @@
+.faq-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.faq-ques-ans {
+    margin-top: 250px;
+
+}
+
+.faq-pic img {
+    height: 500px;
+    width: 400px;
+    margin-left: 100px;
+    margin-top: 150px;
+}
