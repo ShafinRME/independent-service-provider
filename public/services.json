@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Applied Physics",
+        "price": "$2500",
+        "description": "Applied physics is the application of physical theories to problem-solving. It is the use of theoretical knowledge of the properties of physical bodies with the intention of achieving a particular technological or practical goal. It is also usually considered to be a bridge or a connection between physics and engineering.",
+        "img": "https://i.ibb.co/3cq1jDn/Applied-physics.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Theoritical Physics",
+        "price": "$3000",
+        "description": "Theoretical physics is a branch of physics that employs mathematical models and abstractions of physical objects and systems to rationalize, explain and predict natural phenomena. This is in contrast to experimental physics, which uses experimental tools to probe these phenomena.",
+        "img": "https://i.ibb.co/qFYyQc9/Theoritical-physics.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Applied Chemistry",
+        "price": "$2800",
+        "description": "Applied Chemistry is the scientific field for understanding basic chemical properties of materials and for producing new materials with well-controlled functions. ... This major has four areas of study: physical chemistry, materials chemistry, chemical engineering, and environmental chemistry.",
+        "img": "https://i.ibb.co/SB4WcKR/Applied-chemistry.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Pure Chemistry",
+        "price": "$2500",
+        "description": "Pure chemistry is the branch of chemistry which develops theoretical generalizations that are part of the theoretical arsenal of modern chemistry: for example, the concepts of chemical bonding, chemical reaction, valence, the surface of potential energy, molecular orbitals, orbital interactions, and molecule activation.",
+        "img": "https://i.ibb.co/31cRbCK/Theoritical-Chemistry.png"
+    },
+    {
+        "id": 5,
+        "name": "Quantum Physics",
+        "price": "$5500",
+        "description": "Quantum physics is the study of matter and energy at the most fundamental level. It aims to uncover the properties and behaviors of the very building blocks of nature.",
+        "img": "https://i.ibb.co/b7yh3Yj/Quantum-Physics.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Astronomy",
+        "price": "$4000",
+        "description": "Astronomy is the study of everything in the universe beyond Earth's atmosphere. That includes objects we can see with our naked eyes, like the Sun , the Moon , the planets, and the stars . It also includes objects we can only see with telescopes or other instruments, like faraway galaxies and tiny particles. And it even includes questions about things we can't see at all, like dark matter and dark energy",
+        "img": "https://i.ibb.co/sHZBdZS/Astronomy.jpg"
+    }
+]
