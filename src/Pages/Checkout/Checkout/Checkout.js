@@ -3,8 +3,8 @@ import './Checkout.css'
 
 const Checkout = () => {
     return (
-        <div>
-            <h2>Please CheckOut Your courses.</h2>
+        <div className='checkout-header'>
+            <h2 >Please CheckOut Your courses.</h2>
         </div>
     );
 };

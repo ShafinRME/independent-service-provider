@@ -1,0 +1,11 @@
+.about {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    text-align: center;
+    margin-top: 20px;
+}
+
+.my-journey {
+    border: 2px solid royalblue;
+    margin-top: 20px;
+}
