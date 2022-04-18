@@ -6,12 +6,12 @@ import { getAuth } from 'firebase/auth'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyAZAobunN_pOKVNaEHMqi0lly09UDPzUr8",
-    authDomain: "einstein-school-cbbd2.firebaseapp.com",
-    projectId: "einstein-school-cbbd2",
-    storageBucket: "einstein-school-cbbd2.appspot.com",
-    messagingSenderId: "20148240033",
-    appId: "1:20148240033:web:85d896c7ddb647136d7ae0"
+    apiKey: process.env.REACT_APP_apiKey,
+    authDomain: process.env.REACT_APP_authDomain,
+    projectId: process.env.REACT_APP_projectId,
+    storageBucket: process.env.REACT_APP_storageBucket,
+    messagingSenderId: process.env.REACT_APP_messagingSenderId,
+    appId: process.env.REACT_APP_appId,
 };
 
 // Initialize Firebase
