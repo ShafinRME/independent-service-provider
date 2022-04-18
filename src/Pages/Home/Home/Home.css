@@ -35,3 +35,16 @@
     margin-left: 170px;
     font-family: Segoe Script;
 }
+
+@media only screen and (min-device-width: 300px) and (max-device-width: 800px) {
+    .web-head {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        margin-bottom: 40px;
+    }
+
+    .web-head img {
+        width: 300px;
+        margin-left: 100px;
+    }
+}

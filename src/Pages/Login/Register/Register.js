@@ -44,7 +44,7 @@ const Register = () => {
                 <input type="email" name="email" id="" placeholder='Enter Your Email Address' required />
                 <input type="password" name="password" id="" placeholder='Enter Your Password' required />
                 <input onClick={() => setAgree(!agree)} type="checkbox" name="terms" id="terms" />
-                <label className={`ps-2 ${agree ? '' : 'text-danger'}`} htmlFor="terms">Accept Einstein School Terms and Condition?</label>
+                <label className={`ps-2 ${agree ? 'text-primary' : 'text-black'}`} htmlFor="terms">Accept Einstein School Terms and Condition?</label>
                 <input disabled={!agree} className='w-50 mx-auto btn btn-primary' type="submit" value="Register" />
             </form>
             <p>Already Have an Account? <Link to="/login" className='text-primary pe-auto text-decoration-none' onClick={navigateLogin}>Please Log In Here</Link> </p>
