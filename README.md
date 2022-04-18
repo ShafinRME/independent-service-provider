@@ -1,17 +1,18 @@
-# Food Mania
+# Einstein School
 
-## [Live Website Link](https://food-mania-assignment-9.netlify.app/)
-https://food-mania-assignment-9.netlify.app/
+## [Live Website Link](https://einstein-school-cbbd2.web.app/)
+https://einstein-school-cbbd2.web.app/
 
 
 
 --------------
 ### Summary of this Assignment
-* At first we make the Home page and some other components.
+* At first we make the Home page and lots of components.
 * Then we add Route in Home page or in App.js File.
-* Then we made 4 types chart in Dashboard Part.
-* We also make some Reviews and Lastly we make a build file then deploy this file in Netlify.
-* We also make some Reviews and Lastly we make a build file then deploy this file in Netlify.
+* Then we made FAQ componet detail and also About and Login component detail.
+* We made the authentication system of Email password then also of Google and Github.
+* We make the Home page respnsive.
+* Then We deploy the whole project in Firebase.
 
 ### What types of Libarary/FrameWork i use for this assignment
 * React Library
@@ -19,19 +20,6 @@ https://food-mania-assignment-9.netlify.app/
 * React Bootstrap Framework
 * React Router Library
 * React Firebase Hooks
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
