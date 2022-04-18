@@ -4,7 +4,7 @@ import './Faq.css';
 import faq from '../../../images/FAQ/FAQ.jpg';
 const Faq = () => {
     return (
-        <div>
+        <div id="faq">
             <h1 className='faq-title'>FAQ</h1>
 
             <div className="container faq-container">
