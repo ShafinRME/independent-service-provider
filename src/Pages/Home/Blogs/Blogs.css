@@ -1,0 +1,29 @@
+.difference {
+    border: 2px solid goldenrod;
+    margin-top: 40px;
+}
+
+.blogs-head {
+    text-align: center;
+}
+
+.diff-auth {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+
+}
+
+.diff-auth h3 {
+    text-align: center;
+}
+
+.alternative-firebase {
+    border: 2px solid blueviolet;
+    margin-top: 20px;
+}
+
+.alternative-auth {
+    border: 2px solid sienna;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}

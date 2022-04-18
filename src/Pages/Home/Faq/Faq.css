@@ -1,3 +1,8 @@
+.faq-title {
+    text-align: center;
+    padding-top: 30px;
+}
+
 .faq-container {
     display: grid;
     grid-template-columns: 1fr 1fr;
